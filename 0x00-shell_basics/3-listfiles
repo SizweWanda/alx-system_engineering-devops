@@ -1,1 +1,8 @@
 ls
+total 20
+-rwxr--r-- 1 root root 16 May 25 11:25 0-current_working_directory
+-rw-r--r-- 1 root root 12 May 25 12:19 2-bring_me_home
+-rwxr--r-- 1 root root  3 May 25 14:00 3-listfiles
+-rw-r--r-- 1 root root  0 May 25 13:58 listfiles
+-rwxr--r-- 1 root root 14 May 25 12:03 l-listit
+-rw-r--r-- 1 root root 75 May 25 11:31 README.md
